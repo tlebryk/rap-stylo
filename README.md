@@ -10,5 +10,5 @@ Things are a bit messy right now but the general overview is as follows:
 - data_exploration.ipynb: a work in progress trying to do more visualization and fun stats exploration
 - gridsearch_class.ipynb: models using lyrics to predict authorship. The first six models can be run in about 5 minutes. The Nueral Net takes over 10 minutes but probably it is better to skip that as its performance is garbage.   
 - /data: houses json files with songs from Drake and Quentin Miller. 
-- writeup.md: Basically a repeat of the analysis from gridsearch_class with some background on the project. Made to be accesible for people with limited NLP and statistics background. 
+- writeup.md: Background on the project, methods and analysis of gridsearch_class. Meant to be accesible with limited NLP and statistics background. 
 
